@@ -11,7 +11,7 @@
             <tr>
                 <td><img src="Images/JinilPfp-modified.png" alt="Jinil profile picture" width="200px" height="200px"></td>
                 <td><h1>Jinil Desai</h1>
-                    <p><em>Student at <strong><a href="https://www.ubc.ca/">The University of British Columbia</a></strong>.</em></p>
+                    <p><em>Student at <strong><a href="https://www.ubc.ca/">The University of Western Ontario</a></strong>.</em></p>
                     <p>I am a computer science student. I wish to work in data analysis.</p></td>
             </tr>
         </table>
